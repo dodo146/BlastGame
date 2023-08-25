@@ -1,0 +1,35 @@
+# Unity specific
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# VSCode specific
+.vscode/
+
+# Rider specific
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# User-specific files
+/ProjectSettings/ProjectVersion.txt
+/ProjectSettings/ProjectSettings.asset
+/ProjectSettings/UnityConnectSettings.asset
+
+# Generated folders
+/[Uu]ser[Ss]ettings/
+/[Ss]treamingAssets/
+/[Bb]uild [Ll]ogs/
